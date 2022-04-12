@@ -1,0 +1,13 @@
+﻿t-Test: Two-Sample Assuming Unequal Variances,,
+,,
+,Variable 1,Variable 2
+Mean,7142.642857,4801.58875
+Variance,139745.3492,148619.8782
+Observations,28,28
+Hypothesized Mean Difference,0,
+df,54,
+t Stat,23.06848227,
+P(T<=t) one-tail,6.18306E-30,
+t Critical one-tail,1.673564906,
+P(T<=t) two-tail,1.23661E-29,
+t Critical two-tail,2.004879288,
